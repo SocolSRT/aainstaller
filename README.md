@@ -1,5 +1,6 @@
 # AAInstaller Beta V.1
 Auto installation of various Software/CP (Автоматическая установка различного ПО/ПУ)
+* All Auto Installer was created to make it easier for beginners to work with Linux servers and just for those who do not want to search for anything and have everything at hand (Все Автоматический Установщик создан для облегчения работы новичков с серверами Linux и просто для тех, кто не хочет ничего искать и все иметь под рукой)
 
 # Supported OS (Поддерживаемые ОС)
 * Ubuntu
