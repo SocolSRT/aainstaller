@@ -8,7 +8,7 @@ Auto installation of various Software/CP (Автоматическая уста�
 * AlmaLinux
 
 # Install (Установить)
-> wget https://raw.githubusercontent.com/SocolSRT/aainstaller/main/aainstaller.sh && sh aainstaller.sh
+> wget https://raw.githubusercontent.com/SocolSRT/aainstaller/main/aainstaller.sh && chmod +x aainstaller.sh  && sh aainstaller.sh
 
 # Supported Software/CP (Поддерживаемое ПО/ПУ)
 * Web CP - aaPanel, BrainyCP, CWP, CyberPanel, Hestia, ISPconfig, VestaCP
